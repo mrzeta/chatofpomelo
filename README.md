@@ -5,6 +5,7 @@ The chat server currently runs on nodejs v0.8, and should run fine on the latest
 - pomelo
 - express
 - crc
+- connect
 
 Both of them can be installed via 'sh npm-install.sh' (it will install a local copy of all the dependencies in the node_modules directory)
 
